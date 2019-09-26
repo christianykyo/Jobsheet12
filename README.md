@@ -23,3 +23,6 @@ Karena parameter yang diinput di program hanya ada 3 variabel, sedangkan variabe
 
 # LATIHAN 5
 ![Alt Text](https://github.com/christianykyo/Jobsheet12/blob/master/LATIHAN%205.png)
+
+# KALKULATOR SEDERHANA
+![Alt Text](https://github.com/christianykyo/Jobsheet12/blob/master/KALKULATOR%20SEDERHANA.png)
