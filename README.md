@@ -2,8 +2,11 @@
 
 # LATIHAN 1
 A. Type Method
+
 B. Method Name
+
 C. Block Code
+
 D. Calling
 
 # LATIHAN 2
